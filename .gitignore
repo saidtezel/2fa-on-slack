@@ -1,0 +1,6 @@
+env/
+.vscode/
+__pycache__/
+
+service-account.json
+app.yaml
